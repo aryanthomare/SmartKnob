@@ -1,0 +1,4 @@
+# Keep KiCad files byte-identical to what KiCad writes
+* text=auto eol=lf
+*.png binary
+*.pdf binary

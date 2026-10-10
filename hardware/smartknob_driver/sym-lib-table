@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+
+  (lib (name "smartknob") (type "KiCad") (uri "${KIPRJMOD}/smartknob.kicad_sym") (options "") (descr "")))

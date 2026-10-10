@@ -1,0 +1,8 @@
+# KiCad lock, backup, cache and per-user files
+*.lck
+~*
+_autosave-*
+*-backups/
+.history/
+fp-info-cache
+*.kicad_prl

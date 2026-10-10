@@ -1600,6 +1600,7 @@ static void saveSnapshot(const GlassWin &gw, const std::wstring &path) {
 
 static void runSnapshots(const std::wstring &dir) {
   g_snapshot = true;
+  g_alive = g_haptics = true;  // show the connected state
   bool sys = g_sysDark;
   for (int dark = 1; dark >= 0; dark--) {
     g_sysDark = dark != 0;

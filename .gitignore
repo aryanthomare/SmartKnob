@@ -1,0 +1,7 @@
+# PlatformIO build output
+.pio/
+.vscode/
+# Desktop app build output (build with desktop/build.bat)
+desktop/build/
+desktop/*.exe
+desktop/*.obj
